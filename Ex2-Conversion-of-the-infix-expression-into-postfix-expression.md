@@ -15,11 +15,6 @@ operators.
 
 ## Program:
 ```
-/*
-Program to convert the infix expression into postfix expression
-Developed by: N.NAVYA SREE
-RegisterNumber: 212223040138 
-*/
 #include<stdio.h> 
 #include<ctype.h> 
  
