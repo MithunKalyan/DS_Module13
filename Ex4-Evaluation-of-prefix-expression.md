@@ -16,11 +16,6 @@ the loop ends.
 8. End 
 ## Program:
 ```
-/*
-Program to evaluate the given prefix expression
-Developed by: N.NAVYA SREE
-RegisterNumber: 212223040138 
-*/
 #include<stdio.h> 
 #include<string.h> 
 #include<ctype.h> 
